@@ -1,0 +1,15 @@
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/bin/Debug/net8.0/01_VariablesTipos
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/bin/Debug/net8.0/01_VariablesTipos.deps.json
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/bin/Debug/net8.0/01_VariablesTipos.runtimeconfig.json
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/bin/Debug/net8.0/01_VariablesTipos.dll
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/bin/Debug/net8.0/01_VariablesTipos.pdb
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/obj/Debug/net8.0/01_VariablesTipos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/obj/Debug/net8.0/01_VariablesTipos.AssemblyInfoInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/obj/Debug/net8.0/01_VariablesTipos.AssemblyInfo.cs
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/obj/Debug/net8.0/01_VariablesTipos.csproj.CoreCompileInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/obj/Debug/net8.0/01_VariablesTipos.sourcelink.json
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/obj/Debug/net8.0/01_VariablesTipos.dll
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/obj/Debug/net8.0/refint/01_VariablesTipos.dll
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/obj/Debug/net8.0/01_VariablesTipos.pdb
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/obj/Debug/net8.0/01_VariablesTipos.genruntimeconfig.cache
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/01_VariablesTipos/obj/Debug/net8.0/ref/01_VariablesTipos.dll

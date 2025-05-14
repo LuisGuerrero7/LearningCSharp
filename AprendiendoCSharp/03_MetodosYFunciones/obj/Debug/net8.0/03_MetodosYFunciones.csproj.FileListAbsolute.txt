@@ -1,0 +1,15 @@
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/obj/Debug/net8.0/03_MetodosYFunciones.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/obj/Debug/net8.0/03_MetodosYFunciones.AssemblyInfoInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/obj/Debug/net8.0/03_MetodosYFunciones.AssemblyInfo.cs
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/obj/Debug/net8.0/03_MetodosYFunciones.csproj.CoreCompileInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/obj/Debug/net8.0/03_MetodosYFunciones.sourcelink.json
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/bin/Debug/net8.0/03_MetodosYFunciones
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/bin/Debug/net8.0/03_MetodosYFunciones.deps.json
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/bin/Debug/net8.0/03_MetodosYFunciones.runtimeconfig.json
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/bin/Debug/net8.0/03_MetodosYFunciones.dll
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/bin/Debug/net8.0/03_MetodosYFunciones.pdb
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/obj/Debug/net8.0/03_MetodosYFunciones.dll
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/obj/Debug/net8.0/refint/03_MetodosYFunciones.dll
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/obj/Debug/net8.0/03_MetodosYFunciones.pdb
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/obj/Debug/net8.0/03_MetodosYFunciones.genruntimeconfig.cache
+/workspaces/InfoBar/AprendiendoCSharp/03_MetodosYFunciones/obj/Debug/net8.0/ref/03_MetodosYFunciones.dll

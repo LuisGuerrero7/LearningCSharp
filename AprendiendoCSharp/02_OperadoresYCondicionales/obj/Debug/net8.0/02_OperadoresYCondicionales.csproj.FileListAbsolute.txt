@@ -1,0 +1,15 @@
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/bin/Debug/net8.0/02_OperadoresYCondicionales
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/bin/Debug/net8.0/02_OperadoresYCondicionales.deps.json
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/bin/Debug/net8.0/02_OperadoresYCondicionales.runtimeconfig.json
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/bin/Debug/net8.0/02_OperadoresYCondicionales.dll
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/bin/Debug/net8.0/02_OperadoresYCondicionales.pdb
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/obj/Debug/net8.0/02_OperadoresYCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/obj/Debug/net8.0/02_OperadoresYCondicionales.AssemblyInfoInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/obj/Debug/net8.0/02_OperadoresYCondicionales.AssemblyInfo.cs
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/obj/Debug/net8.0/02_OperadoresYCondicionales.csproj.CoreCompileInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/obj/Debug/net8.0/02_OperadoresYCondicionales.sourcelink.json
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/obj/Debug/net8.0/02_OperadoresYCondicionales.dll
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/obj/Debug/net8.0/refint/02_OperadoresYCondicionales.dll
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/obj/Debug/net8.0/02_OperadoresYCondicionales.pdb
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/obj/Debug/net8.0/02_OperadoresYCondicionales.genruntimeconfig.cache
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/02_OperadoresYCondicionales/obj/Debug/net8.0/ref/02_OperadoresYCondicionales.dll

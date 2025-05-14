@@ -1,0 +1,15 @@
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/obj/Debug/net8.0/05_Constructores.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/obj/Debug/net8.0/05_Constructores.AssemblyInfoInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/obj/Debug/net8.0/05_Constructores.AssemblyInfo.cs
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/obj/Debug/net8.0/05_Constructores.csproj.CoreCompileInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/obj/Debug/net8.0/05_Constructores.sourcelink.json
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/bin/Debug/net8.0/05_Constructores
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/bin/Debug/net8.0/05_Constructores.deps.json
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/bin/Debug/net8.0/05_Constructores.runtimeconfig.json
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/bin/Debug/net8.0/05_Constructores.dll
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/bin/Debug/net8.0/05_Constructores.pdb
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/obj/Debug/net8.0/05_Constructores.dll
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/obj/Debug/net8.0/refint/05_Constructores.dll
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/obj/Debug/net8.0/05_Constructores.pdb
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/obj/Debug/net8.0/05_Constructores.genruntimeconfig.cache
+/workspaces/InfoBar/AprendiendoCSharp/05_Constructores/obj/Debug/net8.0/ref/05_Constructores.dll

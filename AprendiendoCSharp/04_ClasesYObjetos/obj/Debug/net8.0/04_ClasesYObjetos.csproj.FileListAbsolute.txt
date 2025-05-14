@@ -1,0 +1,15 @@
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/obj/Debug/net8.0/04_ClasesYObjetos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/obj/Debug/net8.0/04_ClasesYObjetos.AssemblyInfoInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/obj/Debug/net8.0/04_ClasesYObjetos.AssemblyInfo.cs
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/obj/Debug/net8.0/04_ClasesYObjetos.csproj.CoreCompileInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/obj/Debug/net8.0/04_ClasesYObjetos.sourcelink.json
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/bin/Debug/net8.0/04_ClasesYObjetos
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/bin/Debug/net8.0/04_ClasesYObjetos.deps.json
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/bin/Debug/net8.0/04_ClasesYObjetos.runtimeconfig.json
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/bin/Debug/net8.0/04_ClasesYObjetos.dll
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/bin/Debug/net8.0/04_ClasesYObjetos.pdb
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/obj/Debug/net8.0/04_ClasesYObjetos.dll
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/obj/Debug/net8.0/refint/04_ClasesYObjetos.dll
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/obj/Debug/net8.0/04_ClasesYObjetos.pdb
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/obj/Debug/net8.0/04_ClasesYObjetos.genruntimeconfig.cache
+/workspaces/InfoBar/AprendiendoCSharp/04_ClasesYObjetos/obj/Debug/net8.0/ref/04_ClasesYObjetos.dll

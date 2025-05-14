@@ -1,0 +1,15 @@
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/bin/Debug/net8.0/00_HolaMundo
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/bin/Debug/net8.0/00_HolaMundo.deps.json
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/bin/Debug/net8.0/00_HolaMundo.runtimeconfig.json
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/bin/Debug/net8.0/00_HolaMundo.dll
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/bin/Debug/net8.0/00_HolaMundo.pdb
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/obj/Debug/net8.0/00_HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/obj/Debug/net8.0/00_HolaMundo.AssemblyInfoInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/obj/Debug/net8.0/00_HolaMundo.AssemblyInfo.cs
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/obj/Debug/net8.0/00_HolaMundo.csproj.CoreCompileInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/obj/Debug/net8.0/00_HolaMundo.sourcelink.json
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/obj/Debug/net8.0/00_HolaMundo.dll
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/obj/Debug/net8.0/refint/00_HolaMundo.dll
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/obj/Debug/net8.0/00_HolaMundo.pdb
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/obj/Debug/net8.0/00_HolaMundo.genruntimeconfig.cache
+/workspaces/InfoBar/AprendiendoCSharp/00_HolaMundo/obj/Debug/net8.0/ref/00_HolaMundo.dll
