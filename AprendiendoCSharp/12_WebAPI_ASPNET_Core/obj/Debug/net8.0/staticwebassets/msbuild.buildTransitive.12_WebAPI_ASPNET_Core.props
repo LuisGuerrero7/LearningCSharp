@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/12_WebAPI_ASPNET_Core.props" />
+</Project>

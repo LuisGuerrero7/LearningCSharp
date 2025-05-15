@@ -1,0 +1,15 @@
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/obj/Debug/net8.0/09_CRUDEnMemoria.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/obj/Debug/net8.0/09_CRUDEnMemoria.AssemblyInfoInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/obj/Debug/net8.0/09_CRUDEnMemoria.AssemblyInfo.cs
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/obj/Debug/net8.0/09_CRUDEnMemoria.csproj.CoreCompileInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/obj/Debug/net8.0/09_CRUDEnMemoria.sourcelink.json
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/bin/Debug/net8.0/09_CRUDEnMemoria
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/bin/Debug/net8.0/09_CRUDEnMemoria.deps.json
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/bin/Debug/net8.0/09_CRUDEnMemoria.runtimeconfig.json
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/bin/Debug/net8.0/09_CRUDEnMemoria.dll
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/bin/Debug/net8.0/09_CRUDEnMemoria.pdb
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/obj/Debug/net8.0/09_CRUDEnMemoria.dll
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/obj/Debug/net8.0/refint/09_CRUDEnMemoria.dll
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/obj/Debug/net8.0/09_CRUDEnMemoria.pdb
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/obj/Debug/net8.0/09_CRUDEnMemoria.genruntimeconfig.cache
+/workspaces/InfoBar/AprendiendoCSharp/09_CRUDEnMemoria/obj/Debug/net8.0/ref/09_CRUDEnMemoria.dll

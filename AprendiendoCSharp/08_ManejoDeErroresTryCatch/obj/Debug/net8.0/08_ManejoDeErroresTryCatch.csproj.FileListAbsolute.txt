@@ -1,0 +1,15 @@
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/obj/Debug/net8.0/08_ManejoDeErroresTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/obj/Debug/net8.0/08_ManejoDeErroresTryCatch.AssemblyInfoInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/obj/Debug/net8.0/08_ManejoDeErroresTryCatch.AssemblyInfo.cs
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/obj/Debug/net8.0/08_ManejoDeErroresTryCatch.csproj.CoreCompileInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/obj/Debug/net8.0/08_ManejoDeErroresTryCatch.sourcelink.json
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/bin/Debug/net8.0/08_ManejoDeErroresTryCatch
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/bin/Debug/net8.0/08_ManejoDeErroresTryCatch.deps.json
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/bin/Debug/net8.0/08_ManejoDeErroresTryCatch.runtimeconfig.json
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/bin/Debug/net8.0/08_ManejoDeErroresTryCatch.dll
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/bin/Debug/net8.0/08_ManejoDeErroresTryCatch.pdb
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/obj/Debug/net8.0/08_ManejoDeErroresTryCatch.dll
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/obj/Debug/net8.0/refint/08_ManejoDeErroresTryCatch.dll
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/obj/Debug/net8.0/08_ManejoDeErroresTryCatch.pdb
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/obj/Debug/net8.0/08_ManejoDeErroresTryCatch.genruntimeconfig.cache
+/workspaces/InfoBar/AprendiendoCSharp/08_ManejoDeErroresTryCatch/obj/Debug/net8.0/ref/08_ManejoDeErroresTryCatch.dll

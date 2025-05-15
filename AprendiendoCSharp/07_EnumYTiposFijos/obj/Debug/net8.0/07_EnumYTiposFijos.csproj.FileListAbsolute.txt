@@ -1,0 +1,15 @@
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/obj/Debug/net8.0/07_EnumYTiposFijos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/obj/Debug/net8.0/07_EnumYTiposFijos.AssemblyInfoInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/obj/Debug/net8.0/07_EnumYTiposFijos.AssemblyInfo.cs
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/obj/Debug/net8.0/07_EnumYTiposFijos.csproj.CoreCompileInputs.cache
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/obj/Debug/net8.0/07_EnumYTiposFijos.sourcelink.json
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/bin/Debug/net8.0/07_EnumYTiposFijos
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/bin/Debug/net8.0/07_EnumYTiposFijos.deps.json
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/bin/Debug/net8.0/07_EnumYTiposFijos.runtimeconfig.json
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/bin/Debug/net8.0/07_EnumYTiposFijos.dll
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/bin/Debug/net8.0/07_EnumYTiposFijos.pdb
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/obj/Debug/net8.0/07_EnumYTiposFijos.dll
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/obj/Debug/net8.0/refint/07_EnumYTiposFijos.dll
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/obj/Debug/net8.0/07_EnumYTiposFijos.pdb
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/obj/Debug/net8.0/07_EnumYTiposFijos.genruntimeconfig.cache
+/workspaces/InfoBar/AprendiendoCSharp/07_EnumYTiposFijos/obj/Debug/net8.0/ref/07_EnumYTiposFijos.dll
